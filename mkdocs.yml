@@ -1,0 +1,65 @@
+site_name: Ravi E - Technical Writer
+site_description: Software documentation portfolio showcasing API docs, tutorials, and technical guides
+site_author: Ravi E
+site_url: https://ravi-e.github.io/my-portfolio/
+
+theme:
+  name: material
+  palette:
+     # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  font:
+    text: Roboto       # or: Open Sans, Ubuntu, Roboto
+    code: Roboto Mono   # or: Source Code Pro, Roboto Mono
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - toc.follow
+
+nav:
+  - Home: index.md
+  - About: about/about.md
+  - Samples: samples/samples.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ravi-e
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/ravi-esakkiappan-0075012a/
+    - icon: fontawesome/solid/file-pdf
+      link: assets/Ravi_Esakkiappan.pdf
