@@ -6,7 +6,7 @@ With 10+ years of experience as a **Senior Technical Writer**, I have mastered t
 
 ---
 
-### Technical Toolkit
+### Technical toolkit
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -17,23 +17,23 @@ With 10+ years of experience as a **Senior Technical Writer**, I have mastered t
 
 ---
 
-### Core Competencies
+### Core competencies
 
-#### **Content Strategy & Architecture**
+#### **Content strategy and architecture**
 * **Information Architecture:** Designing intuitive navigation structures and content hierarchies for complex technical suites.
 * **Single-Sourcing & Reuse:** Expertise in managing variables, snippets, and conditional text to maintain a "single source of truth" across multiple outputs.
 * **Structured Authoring:** Implementing DITA-based modularity to improve content scalability and translation efficiency.
 
-#### **Modern Documentation Workflows**
+#### **Modern documentation workflows**
 * **Version Control:** Managing documentation lifecycles through branching, pull requests, and code reviews in GitHub or GitLab.
 
-#### **Technical Analysis**
+#### **Technical analysis**
 * **Subject Matter Expert (SME) Collaboration:** Partnering with engineers and developers to translate high-level technical specifications into user-centric guides.
 * **Audience Analysis:** Tailoring content for diverse personas, from end-users and technicians to specialized developers.
 
 ---
 
-### Professional Experience
+### Professional experience
 
 #### **Enterprise Documentation Strategy**
 I have developed and maintained comprehensive documentation suites for global leaders like **NCR Atleos** and **HPE** (via Lionbridge). My work focuses on reducing support overhead through clear, modular content and structured authoring.
@@ -43,13 +43,13 @@ I am currently adapting my technical writing background to include Docs-as-Code 
 
 ---
 
-### Professional Philosophy
+### Professional philosophy
 
 > "Great documentation isn't just about explaining how a product works—it's about empowering the user to succeed with as little friction as possible."
 
 ---
 
-### Let's Connect
+### Let's connect
 
 I am currently exploring opportunities for **fully remote** technical writing roles where I can contribute to innovative technical communication strategies.
 
@@ -61,4 +61,4 @@ I am currently exploring opportunities for **fully remote** technical writing ro
 
 ---
 
-*Built with: MkDocs | Material Theme | Deployed via GitHub Pages*
+*Built with: Lots of coffee | MkDocs | Material Theme | Deployed via GitHub Pages*

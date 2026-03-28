@@ -11,20 +11,20 @@ Over 10 years ago, I "switched lanes" to **Technical Writing**. This role finall
 
 ---
 
-### **Professional Journey**
+### **Professional journey**
 
-#### **Enterprise Experience**
+#### **Enterprise experience**
 My experience spans major global players in the technology and fintech sectors, where I have managed complex documentation suites:
 
 * **Senior Technical Writer at NCR Atleos:** Currently focusing on high-stakes documentation for enterprise-level hardware and software solutions.
 * **Technical Writing at Lionbridge (for HPE):** Managed specialized documentation projects, focusing on modularity and content reuse within complex technical domains.
 
-#### **Current Focus: Docs-as-Code**
+#### **Current focus: Docs-as-Code**
 While my foundation is built on structured authoring tools like **DITA XML** and **MadCap Flare**, I am currently expanding my expertise into **Docs-as-Code** methodologies. 
 
 ---
 
-### **What I Bring to a Team**
+### **What I bring to a team**
 * **Empathetic Collaboration:** I pride myself on being a warm, approachable teammate who builds genuine rapport. I believe empathy is key to understanding user pain points and developer constraints alike.
 * **Conflict Resolution:** I prefer an open, communicative approach to teamwork. When disagreements arise, I advocate for "talking it out" to find a balanced solution that serves the project and the team dynamic.
 * **Process Mindset:** A focus on creating scalable, maintainable documentation systems rather than just one-off manuals.
@@ -32,7 +32,7 @@ While my foundation is built on structured authoring tools like **DITA XML** and
 
 ---
 
-### **Beyond the Documentation**
+### **Beyond documentation**
 
 When I am not structuring content or experimenting with static site generators, I am usually exploring other technical interests:
 

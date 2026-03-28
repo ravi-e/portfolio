@@ -35,10 +35,13 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - search.highlight
+    - navigation.sticky        # Keep the header fixed
+    - search.suggest           # Smart search results
+    - search.highlight         # Highlight searched words
+    - content.tabs.link        # Sync tabs across the page
     - search.share
     - toc.follow
-    - content.code.copy  # enables the copy button
+    - content.code.copy        # enables the copy button
 
 nav:
   - Home: index.md
