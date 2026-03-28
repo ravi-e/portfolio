@@ -38,17 +38,19 @@ theme:
     - search.highlight
     - search.share
     - toc.follow
+    - content.code.copy  # enables the copy button
 
 nav:
   - Home: index.md
   - About: about/index.md
-  - Samples: samples/samples.md
+  - Samples: samples/index.md
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - md_in_html
   - pymdownx.tabbed:
       alternate_style: true
   - toc:
@@ -64,7 +66,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/ravi-esakkiappan-0075012a/
     - icon: fontawesome/solid/file-pdf
-      link: assets/Ravi_Esakkiappan.pdf
+      link: /assets/Ravi_Esakkiappan.pdf
 
   analytics:
     provider: google
