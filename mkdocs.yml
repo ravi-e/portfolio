@@ -39,7 +39,7 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about/about.md
+  - About: about/index.md
   - Samples: samples/samples.md
 
 markdown_extensions:
