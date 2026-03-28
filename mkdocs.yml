@@ -63,3 +63,7 @@ extra:
       link: https://linkedin.com/in/ravi-esakkiappan-0075012a/
     - icon: fontawesome/solid/file-pdf
       link: assets/Ravi_Esakkiappan.pdf
+
+  analytics:
+    provider: google
+    property: G-2TM8PG0HNH
