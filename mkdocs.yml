@@ -5,6 +5,8 @@ site_url: https://ravi-e.com/
 
 theme:
   name: material
+  favicon: assets/favicon.png  # Path to your new icon
+  logo: assets/favicon.png     # Use the same image for the site logo
   palette:
      # Light mode
     - media: "(prefers-color-scheme: light)"
