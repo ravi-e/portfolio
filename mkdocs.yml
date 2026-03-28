@@ -1,7 +1,7 @@
 site_name: Ravi E - Technical Writer
 site_description: Software documentation portfolio showcasing API docs, tutorials, and technical guides
 site_author: Ravi E
-site_url: https://ravi-e.github.io/my-portfolio/
+site_url: https://ravi-e.com/
 
 theme:
   name: material
