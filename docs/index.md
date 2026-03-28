@@ -43,13 +43,13 @@ I am currently adapting my technical writing background to include Docs-as-Code 
 
 ---
 
-### 📈 Professional Philosophy
+### Professional Philosophy
 
 > "Great documentation isn't just about explaining how a product works—it's about empowering the user to succeed with as little friction as possible."
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
 I am currently exploring opportunities for **fully remote** technical writing roles where I can contribute to innovative technical communication strategies.
 

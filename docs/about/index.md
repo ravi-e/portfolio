@@ -24,6 +24,14 @@ While my foundation is built on structured authoring tools like **DITA XML** and
 
 ---
 
+### **What I Bring to a Team**
+* **Empathetic Collaboration:** I pride myself on being a warm, approachable teammate who builds genuine rapport. I believe empathy is key to understanding user pain points and developer constraints alike.
+* **Conflict Resolution:** I prefer an open, communicative approach to teamwork. When disagreements arise, I advocate for "talking it out" to find a balanced solution that serves the project and the team dynamic.
+* **Process Mindset:** A focus on creating scalable, maintainable documentation systems rather than just one-off manuals.
+* **Adaptability:** A proven track record of mastering new tools—from early-day Android rooting and custom ROMs to DITA XML and my current transition into MkDocs and Git-based workflows.
+
+---
+
 ### **Beyond the Documentation**
 
 When I am not structuring content or experimenting with static site generators, I am usually exploring other technical interests:
@@ -31,14 +39,6 @@ When I am not structuring content or experimenting with static site generators, 
 * **Technology & Gadgets:** I have a long-standing interest in the Android ecosystem. In the early days of the platform, I was a frequent user of custom ROMs—rooting and modifying my devices to optimize performance and explore the limits of the OS. I also have a keen interest in the EV space (currently riding an **Ather Rizta**).
 * **PC Hardware & Gaming:** I am a PC enthusiast who prefers the precision of a keyboard and mouse over consoles. I take a hands-on approach to my setup, having personally sourced each component and assembled my current build by hand.
 * **Travel:** I enjoy the logistical challenge of planning complex travel itineraries, from domestic regions like Sikkim and Pondicherry to international destinations like the Maldives.
-
----
-
-### **What I Bring to a Team**
-* **Empathetic Collaboration:** I pride myself on being a warm, approachable teammate who builds genuine rapport. I believe empathy is key to understanding user pain points and developer constraints alike.
-* **Conflict Resolution:** I prefer an open, communicative approach to teamwork. When disagreements arise, I advocate for "talking it out" to find a balanced solution that serves the project and the team dynamic.
-* **Process Mindset:** A focus on creating scalable, maintainable documentation systems rather than just one-off manuals.
-* **Adaptability:** A proven track record of mastering new tools—from early-day Android rooting and custom ROMs to DITA XML and my current transition into MkDocs and Git-based workflows.
 
 ---
 
