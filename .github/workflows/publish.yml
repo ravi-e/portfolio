@@ -23,5 +23,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
-      - run: pip install mkdocs-sitemap
+      - run: pip install mkdocs-sitemap-plugin
       - run: mkdocs gh-deploy --force
