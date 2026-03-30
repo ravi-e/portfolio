@@ -61,6 +61,8 @@ markdown_extensions:
 
 plugins:
   - search
+  - sitemap:
+      hostname: https://ravi-e.com/
 
 extra:
   social:
