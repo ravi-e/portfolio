@@ -46,7 +46,12 @@ theme:
 nav:
   - Home: index.md
   - About: about/index.md
-  - Samples: samples/index.md
+  - Samples: 
+    - Overview: samples/index.md    
+    - Getting Started: samples/getting-started.md
+    - CLI Reference: samples/cli-reference.md
+    - API Reference: samples/api-reference.md
+    - Troubleshooting: samples/troubleshooting.md
 
 markdown_extensions:
   - admonition
