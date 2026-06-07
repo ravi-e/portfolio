@@ -50,7 +50,7 @@ Tools and technologies I use to design, build, and maintain scalable documentati
 I have developed and maintained comprehensive documentation suites for global leaders like **NCR Atleos** and **HPE** (via Lionbridge). My work focuses on reducing support overhead through clear, modular content and structured authoring.
 
 #### **The Docs-as-Code Shift**
-I am currently adapting my technical writing background to include Docs-as-Code practices. This site is a live demonstration of that process, utilizing a static site generator and version control to manage and deploy technical content.
+I am currently adapting my technical writing background to include Docs-as-Code practices. This site is a live demonstration of that process, utilizing a static site generator and version control to manage and deploy technical content. You can view the source code for this portfolio on my [GitHub repository](https://github.com/ravi-e/portfolio).
 
 ---
 
@@ -62,7 +62,7 @@ I am currently adapting my technical writing background to include Docs-as-Code 
 
 ### Let's connect
 
-I am currently exploring opportunities for **fully remote** technical writing roles where I can contribute to innovative technical communication strategies.
+I am currently exploring opportunities for technical writing roles where I can contribute to innovative technical communication strategies. I am open to international relocation opportunities as well.
 
 [**LinkedIn**](https://www.linkedin.com/in/ravi-es/) | [**GitHub**](https://github.com/ravi-e) | 
 
