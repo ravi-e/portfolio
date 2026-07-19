@@ -1,5 +1,8 @@
 # Technical Writing Portfolio
 
+> [!WARNING]
+> **This repository is archived.** The source code for the latest website changes has moved to [ravi-e/website](https://github.com/ravi-e/website).
+
 This repository contains my technical writing portfolio, showcasing end-to-end documentation for a fictional connected EV platform.
 
 The project demonstrates how I design and structure documentation across user onboarding, developer workflows, and system-level references.
